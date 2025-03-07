@@ -46,6 +46,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        custom: ['"Open Sans"', 'sans-serif'],
+      },
       spacing: {
         '120': '120px', // Add custom padding-top 120px
       },

@@ -59,7 +59,7 @@ body {
 .swiper-button-prev, .swiper-button-next {
     position: absolute;
     top: auto;
-    bottom: -90px;
+    bottom: -105px;
     width: 65px;
     height: 65px;
     background: none;
